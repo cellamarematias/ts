@@ -1,6 +1,6 @@
 # Resumen de Tipos en TypeScript 🚀
 
-Este documento es un resumen completo de los principales tipos y estructuras que ofrece TypeScript, con ejemplos y explicaciones de cada uno. Puedes copiar y pegar este contenido en tu `README.md`.
+Este documento es un resumen completo de los principales tipos y estructuras que ofrece TypeScript, con ejemplos y explicaciones de cada uno.
 
 ---
 
@@ -256,6 +256,4 @@ TypeScript ofrece una estructura de tipos muy robusta que permite:
 - **Enums**: Manejar conjuntos de valores fijos.
 - **Generics**: Crear componentes reutilizables y seguros.
 - **Tipos Avanzados y Utilidades**: Transformar y manipular tipos para adaptar el código a diversas necesidades.
-
-Explora y utiliza cada uno de estos tipos según los requerimientos de tu proyecto para mejorar la calidad, seguridad y mantenibilidad de tu código.
 
